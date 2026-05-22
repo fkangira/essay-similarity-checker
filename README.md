@@ -1,1 +1,0 @@
-# essay-similarity-checker
