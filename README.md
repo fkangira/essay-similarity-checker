@@ -28,3 +28,4 @@ The program:
 - similarity_checker.py
 
 
+Project ready for submission.
